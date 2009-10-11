@@ -2,12 +2,12 @@
 Summary:	An authentication and authorization toolkit for WSGI applications and frameworks
 Summary(pl.UTF-8):	Pakiet narzędzi do uwierzytelniania i autoryzacji dla aplikacji WSGI
 Name:		python-%{fname}
-Version:	0.4.3
+Version:	0.4.5
 Release:	1
 License:	MIT
 Group:		Development/Languages/Python
 Source0:	http://pypi.python.org/packages/source/A/AuthKit/%{fname}-%{version}.tar.gz
-# Source0-md5:	dfbaf2ecc0c682305dd918fbf3c1600e
+# Source0-md5:	0336ba96de32ea97f6058bed5549b30c
 URL:		http://authkit.org
 BuildRequires:	python >= 1:2.5
 BuildRequires:	python-setuptools
