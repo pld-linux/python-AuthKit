@@ -9,6 +9,7 @@ Group:		Development/Languages/Python
 Source0:	http://pypi.python.org/packages/source/A/AuthKit/%{fname}-%{version}.tar.gz
 # Source0-md5:	0336ba96de32ea97f6058bed5549b30c
 URL:		http://authkit.org
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildRequires:	python >= 1:2.5
 BuildRequires:	python-setuptools
 BuildRequires:	rpm-pythonprov
